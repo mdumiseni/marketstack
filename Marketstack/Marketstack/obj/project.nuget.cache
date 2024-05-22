@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GdHZSrgSkrbTakgurtWlPEuE1RlEUaWuqSn6fiKgscfhD4AZ0CdRAZ2uMu8NRrIVYBVC7MlooiSevqp7ZgTtHg==",
+  "dgSpecHash": "CsZFSrSFRplymti2FatfuK3N1EAJLDtengxuOfCAznOqA3wCcuDiOhsdJXrRSpN3QAlrC120bxCiOlyZ06A1ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\mdumi\\OneDrive\\Documents\\GitHub\\marketstack\\Marketstack\\Marketstack\\Marketstack.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mdumi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
