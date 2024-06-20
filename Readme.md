@@ -8,4 +8,4 @@
 
 # Marketstack Library (Unofficial)
 
-This class library is any unofficial implementation of the [Marketstack](https://marketstack.com/)marketstack API.
+This class library is any unofficial implementation of the [Marketstack](https://marketstack.com/) API.
