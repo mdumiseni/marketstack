@@ -5,3 +5,7 @@
     <img alt="MudBlazor" src="Screenshot 2024-06-20 191329.png">
   </picture>
 </h1>
+
+# Marketstack Library (Unofficial)
+
+This class library is any unofficial implementation of the [Marketstack](https://marketstack.com/)marketstack API.
