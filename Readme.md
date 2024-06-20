@@ -9,3 +9,6 @@
 # Marketstack Library (Unofficial)
 
 This class library is any unofficial implementation of the [Marketstack](https://marketstack.com/) API.
+
+## About
+Marketstack is a Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format
