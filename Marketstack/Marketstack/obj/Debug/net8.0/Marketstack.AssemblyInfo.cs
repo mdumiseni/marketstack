@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marketstack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8288e408e6e3e84d03ff841d9f39e733e653ceb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f49be56b243ff8560bcfa6994bf9f6245bd52ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marketstack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marketstack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

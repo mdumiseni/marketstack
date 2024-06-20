@@ -1,13 +1,17 @@
 ﻿namespace Marketstack.HttpRequestHandler;
 
-public class MarketstackApiHandler(string access_key)
+public class MarketstackApiHandler
 {
     public async Task<string> GetAsync(string endpointUrl)
     {
         using var client = new HttpClient();
-        client.BaseAddress = new Uri(Constants.Endpoints.BaseUrl);
-        
+        const string baseUrl = "http://api.marketstack.com";
+        client.BaseAddress = new Uri(baseUrl);
 
-        return "";
+        var request = await client.GetAsync(endpointUrl);
+        if (!request.IsSuccessStatusCode) throw new Exception();
+        
+        var response = await request.Content.ReadAsStringAsync();
+        return response;
     }
 }
