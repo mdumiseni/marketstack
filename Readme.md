@@ -15,5 +15,5 @@ Marketstack is a Free, easy-to-use REST API interface delivering worldwide stock
 - Real-Time Market Data
 - Intraday Market Data
 - 30+ Years Historical Data
--   170,000+ Stock Tickers
--     50+ Market Indices
+- 170,000+ Stock Tickers
+-  50+ Market Indices
